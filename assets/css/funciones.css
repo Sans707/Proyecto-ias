@@ -31,8 +31,10 @@ ul {
   list-style-type: none;
   padding: 0;
   margin:  20px 10px;
-  display: flex;
+  display: grid 20px;
   text-align: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
 }
 
 a:hover {
