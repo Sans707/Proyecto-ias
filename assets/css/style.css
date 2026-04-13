@@ -69,6 +69,7 @@ a:hover {
 footer{ 
   text-align: center;
   background-color: white;
+  display: flex;
 }
 
 p {
@@ -83,4 +84,5 @@ figcaption{
   text-align: center;
   background-color: white;
 }
+
 

@@ -52,6 +52,7 @@ img {
 footer{ 
   text-align: center;
   background-color: white;
+  display: flex;
 }
 h3{ text-align: center;
 background-color:  rgb(102, 218, 56);
