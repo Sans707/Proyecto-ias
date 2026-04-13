@@ -11,8 +11,8 @@ div.box {
   margin: auto;
   width: 1000px;
   border: 2px solid #000000;
-  display: grid;
   grid-template-rows: auto;
+  min-height: 100vh;
 }
 
 img {
@@ -20,6 +20,7 @@ img {
  margin-left: auto;
  margin-right: auto;
   background-color: white;
+  
 }
 figure {
   background-color: white;
