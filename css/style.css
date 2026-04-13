@@ -1,0 +1,73 @@
+body {
+  background: linear-gradient(to right, rgb(220, 223, 61) 20%, rgb(5, 102, 29) 80%);
+    margin: 0 auto;
+    width: 1000px;
+    border: 2px solid #000000;
+    height: auto;
+  }
+  
+div.box {
+  background-color: white;
+  margin: auto;
+  width: 1000px;
+  border: 2px solid #000000;
+}
+
+img {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+  background-color: white;
+}
+figure {
+  background-color: white;
+  margin: auto;
+  width: 1000px;
+  border: 1px solid #53ce53;
+}
+
+h1{ text-align: center;
+background-color:  white;
+margin: auto ;
+margin-left: 25%;
+margin-right: 25%;
+}
+
+h2{ text-align: center;
+  background-color: white;
+  margin: auto;
+margin-left: 25%;
+margin-right: 25%;}
+
+nav { text-align: center;
+background-color: rgb(104, 212, 104);
+}
+a { text-align: center;
+margin: 10px 80px; 
+color: black;
+text-decoration: none;
+  font-size: 22px;
+}
+
+a:hover {
+  background-color: rgb(102, 218, 56);
+  color: rgb(238, 255, 0);
+}
+
+footer{ 
+  text-align: center;
+  background-color: white;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  background-color: white;
+  margin: auto;
+  margin-left: 50px;
+  margin-right: auto;
+}
+figcaption{ 
+  text-align: center;
+  background-color: white;
+}
