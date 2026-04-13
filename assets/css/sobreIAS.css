@@ -22,6 +22,8 @@ div.box {
   margin: auto;
   width: 1000px;
   border: 2px solid #000000;
+  display: grid;
+  grid-template-rows: auto auto 1fr auto;
 }
 h2{ text-align: center;
     border: 2px solid #76f55c;

@@ -11,6 +11,8 @@ div.box {
   margin: auto;
   width: 1000px;
   border: 2px solid #000000;
+  display: grid;
+  grid-template-rows: auto;
 }
 
 img {
@@ -71,3 +73,4 @@ figcaption{
   text-align: center;
   background-color: white;
 }
+
