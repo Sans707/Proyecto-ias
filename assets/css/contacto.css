@@ -63,3 +63,22 @@ background-color:  white;
 margin: auto ;
 margin-left: 25%;
 margin-right: 25%;}
+form{
+  flex-wrap: wrap;
+ gap:15px;
+}
+label{
+  width: 100%;
+  text-align: left;
+}
+input, select{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;}
+  textarea,button{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
